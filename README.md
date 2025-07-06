@@ -99,4 +99,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Fuzuli Yuksek. I’m a Management & Data Analyst.
+Hi there! I'm **Fuzuli Yuksek. I’m a Management & Data Analyst and I am happy to share this project with you! 
